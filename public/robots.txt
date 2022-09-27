@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://capable-monstera-602514.netlify.app/sitemap.xml

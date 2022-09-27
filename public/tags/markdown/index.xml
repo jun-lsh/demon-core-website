@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on The Demon Core</title>
-    <link>https://capable-monstera-602514.netlify.app/tags/markdown/</link>
+    <link>https://demoncore.site/tags/markdown/</link>
     <description>Recent content in markdown on The Demon Core</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (author)</managingEditor>
     <webMaster>me@example.com (author)</webMaster>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://capable-monstera-602514.netlify.app/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://demoncore.site/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://capable-monstera-602514.netlify.app/post/markdown-syntax/</link>
+      <link>https://demoncore.site/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>me@example.com (author)</author>
-      <guid>https://capable-monstera-602514.netlify.app/post/markdown-syntax/</guid>
+      <guid>https://demoncore.site/post/markdown-syntax/</guid>
       
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
@@ -160,10 +160,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://capable-monstera-602514.netlify.app/post/placeholder-text/</link>
+      <link>https://demoncore.site/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>me@example.com (author)</author>
-      <guid>https://capable-monstera-602514.netlify.app/post/placeholder-text/</guid>
+      <guid>https://demoncore.site/post/placeholder-text/</guid>
       
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;

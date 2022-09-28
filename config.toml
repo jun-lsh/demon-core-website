@@ -4,6 +4,7 @@
 ###################################################
 
 baseURL = "https://demoncore.site/" # website root path
+#baseURL = "localhost:1313"
 disqusShortname = ""               # disqus shortcode
 enableGitInfo = false              # retrieve last modified date from git commits
 enableRobotsTXT = true             # /robots.txt
@@ -29,20 +30,21 @@ style = "emacs" # syntax highlight style, see https://xyproto.github.io/splash/d
 
 # https://gohugo.io/content-management/menus/
 [[menu.main]] # sections in the website header
-identifier = "post" # section id
-name = "Post"       # section display title
+identifier = "references" # section id
+name = "The Story"       # section display title
 url = "/"           # path to the section
 weight = 1          # order of sections
 [[menu.main]]
 identifier = "archives"
-name = "Archives"
-url = "/post/"
+name = "Quiz"
+url = "/quiz/"
 weight = 2
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
 weight = 3
+
 
 # https://gohugo.io/content-management/taxonomies#configure-taxonomies
 [taxonomies]
@@ -81,7 +83,7 @@ script = """
 """
 
 [params.math]
-enable = false # whether to enable math typesetting
+enable = true # whether to enable math typesetting
 use = "katex"  # katex or mathjax
 
 [params.outdated]

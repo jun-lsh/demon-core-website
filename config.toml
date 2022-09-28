@@ -3,7 +3,7 @@
 # https://gohugo.io/getting-started/configuration #
 ###################################################
 
-baseURL = "https://capable-monstera-602514.netlify.app/" # website root path
+baseURL = "https://demoncore.site/" # website root path
 disqusShortname = ""               # disqus shortcode
 enableGitInfo = false              # retrieve last modified date from git commits
 enableRobotsTXT = true             # /robots.txt

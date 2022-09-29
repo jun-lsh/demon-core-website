@@ -56,7 +56,7 @@ Finally, $k = 1$, the sweet spot. The plutonium is called `critical`, and the nu
 (Stealing from https://en.wikipedia.org/wiki/Six_factor_formula)
 
 Specifically, there are 6 factors which affects $k$.
-$k = \eta f p \epsilon P_{FNL}P_{TNL}$
+$k = \eta f p \epsilon P_{FNL}P_{TNL} = k_{\infty} P_{FNL}P_{TNL}$
 
 - Thermal fission factor (eta / $\eta$)
     - $\frac{\text{neutrons produced from fission}}{\text{absorption in fuel isotope}}$
@@ -87,9 +87,10 @@ Naturally, the less leakage from the reactor, the higher k is. This is intuitive
 
 
 # Section 2: The history of the demon core. 
-(Context: The demon core was a 6.2kg sphere of plutonium-gallium.)
+
+## World War 2
+
+
+
 
 In most cases, researchers are experimenting with the core at a subcritical mass. Then, dealing with the demon core would be safe, as the amount of radiation ay researcher could be exposed to could be controlled, and hence kept at safe levels. 
-
-
-Explicit formula for k: https://en.wikipedia.org/wiki/Six_factor_formula 

@@ -82,10 +82,9 @@ Note: These 2 points should be considered together. When we consider both of the
     - $\frac{\text{number of thermal neutrons that do not leak from reactor}}{\text{number of thermal neutrons produced by all fissions}}$
     - The less leakage, the higher k is. 
 
-Naturally, the less leakage from the reactor, the higher k is. This is intuitive: neutrons is what _limits_ the number of reactions which may occur in the first place: hence the less leakage there is from the reactor, the higher k will be.
+Naturally, the less leakage from the reactor, the higher k is. This is intuitive: neutrons are what _limit_ the number of reactions which may occur in the first place: hence the less leakage there is from the reactor, the higher k will be.
 
 
-All of these are pretty natural to see.  
 
 # Section 2: The history of the demon core. 
 (Context: The demon core was a 6.2kg sphere of plutonium-gallium.)

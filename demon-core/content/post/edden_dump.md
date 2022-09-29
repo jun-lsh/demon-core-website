@@ -52,6 +52,40 @@ If $k > 1$, the plutonium is `supercritical`. The number of reactions that occur
 
 Finally, $k = 1$, the sweet spot. The plutonium is called `critical`, and the number of reactions that occur at any 1 point of time should stay approximately constant. Then, this reaction should self-sustain itself while $k = 1$ and there is enough plutonium. 
 
+## Factors affecting k
+(Stealing from https://en.wikipedia.org/wiki/Six_factor_formula)
+
+Specifically, there are 6 factors which affects $k$.
+$k = \eta f p \epsilon P_{FNL}P_{TNL}$
+
+- Thermal fission factor (eta / $\eta$)
+    - $\frac{\text{neutrons produced from fission}}{\text{absorption in fuel isotope}}$
+    - The less neutrons get absorbed, the higher k is.
+- Thermal utilization factor ($f$)
+    - $\frac{\text{neutrons absorbed by the fuel isotope}}{\text{neutrons absorbed anywhere}}$
+    - Among all absorbed neutrons, the more is absorbed by the fuel, the higher k is. 
+
+Note: These 2 points should be considered together. When we consider both of these _together_, we note that these 2 terms are just accounting for protons which are absorbed. This is natural: neutrons will either be absorbed, deflected (accounted later), or undergo nuclear fission. Naturally, the less electrons are absorbed, the more will undergo nuclear fission. Neutrons absorbed by the fuel isotopes also make the Plutonium in an excited state: more likely to eject the neutron (though with a lower speed). Hence, the more neutrons are absorbed by the fuel isotope (instead of other parts of the system eg: walls), the higher k will be. 
+
+
+- Resonance escape probability ($p$)
+    - $\frac{\text{fission neutrons slowed to thermal energies without absorption}}{\text{toatl fission neutrons}}$
+- Fast fission factor (epsilon / $\epsilon$)
+    - $\frac{\text{total number of fission neutrons}}{\text{number of fission neutrons from just thermal fissions}}$
+
+
+- Fast non-leakage probability ($P_{FNL}$)
+    - $\frac{\text{number of fast neutrons that do not leak from reactor}}{\text{number of fast neutrons produced by all fissions}}$
+    - Here, fast neutrons refers to neutrons which can trigger a reaction. 
+    - The less leakage, the higher k is. 
+- Thermal non-leakage probability ($P_{TNL}$)
+    - $\frac{\text{number of thermal neutrons that do not leak from reactor}}{\text{number of thermal neutrons produced by all fissions}}$
+    - The less leakage, the higher k is. 
+
+Naturally, the less leakage from the reactor, the higher k is. This is intuitive: neutrons is what _limits_ the number of reactions which may occur in the first place: hence the less leakage there is from the reactor, the higher k will be.
+
+
+All of these are pretty natural to see.  
 
 # Section 2: The history of the demon core. 
 (Context: The demon core was a 6.2kg sphere of plutonium-gallium.)

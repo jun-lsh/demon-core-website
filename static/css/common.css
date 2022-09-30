@@ -126,8 +126,6 @@ time {
     align-items: center;
     display: flex;
     flex-direction: column;
-    text-align: center;
-    display: inline-block;
 }
 
 #header > h1 {
@@ -141,12 +139,11 @@ time {
 }
 
 #header > nav {
-    display: inline-block;
-    list-style-type: none;
-    /* flex-direction: row; */
-    /* justify-content: space-around; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     flex-wrap: wrap;
-    /* max-width: 768px; */
+    max-width: 768px;
     width: 100%;
 }
 

@@ -11,7 +11,7 @@ enableRobotsTXT = true             # /robots.txt
 googleAnalytics = ""               # google analytics id
 hasCJKLanguage = true              # Chinese/Japanese/Korean
 languageCode = "en"                # content language
-paginate = 5                       # number of posts each page
+paginate = 3                       # number of posts each page
 rssLimit = 10                      # maximum items in rss feeds
 theme = "hugo-theme-texify"        # theme directory name
 title = "The Demon Core"                   # website title
@@ -29,20 +29,23 @@ unsafe = true # enable html in markdown
 style = "emacs" # syntax highlight style, see https://xyproto.github.io/splash/docs/
 
 # https://gohugo.io/content-management/menus/
-[[menu.main]] # sections in the website header
-identifier = "references" # section id
-name = "The Story"       # section display title
-url = "/"           # path to the section
-weight = 1          # order of sections
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
 [[menu.main]]
 identifier = "archives"
 name = "Quiz"
 url = "/quiz/"
 weight = 2
+
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "references"
+name = "References"
+url = "/references/"
 weight = 3
 
 

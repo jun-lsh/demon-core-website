@@ -4,8 +4,9 @@
 
 {{ define "main" }}
 <main id="main" class="index">
-  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "==" "post") }}
-  {{ range $paginator.Pages }}
+  {{$paged := (where .Site.RegularPages "Type" "==" "post").ByDate}}
+  {{ $paginator := .Paginate $paged }}
+  {{ range $paginator.Pages.ByDate }}
   <div class="post">
     <h2>
       <a href="{{ .Permalink }}">{{ .Title }}</a>

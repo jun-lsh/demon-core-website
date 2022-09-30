@@ -1,25 +1,18 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About the website"
+date = "2022-09-30"
+aliases = ["about-us", "contact"]
+author = "June"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### What is this website for?
+This website seeks to comprehensively cover the history of the Demon Core, exploring the Physics concepts behind radioactivity and criticality, the principles explored in the experiments the plutonium hemispheres were used for and the two major criticality incidents the Demon Core were involved in. We wish to educate people more on the fundamentals of nuclear physics, its hazards and more. 
 
-Hugo makes use of a variety of open source projects including:
+### Who is this website for?
+This website is for those who want to learn more about nuclear physics and radiation and hopes to make the concepts behind it more interpretable and understandable, taking away some of the *spooky factor* of the silent killer that is radiation. This website is also for those with an interest in the history behind nuclear technology and safety (and those with a morbid interest in criticality events). 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+The content on the website has been written under the assumption that the viewer has a preliminary understanding of particle physics, namely subatomic particles (neutrons, protons, electrons) and the structure of the atom. The website will provide introductions to the nuclear physics concepts required to fully understand the Demon Core incidents.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+### How was this website made?
+This website was made using [Hugo](https://github.com/gohugoio), with content written by Justin Lim, Edden Chew and Oh Zhi Yuan of M22504.

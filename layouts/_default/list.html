@@ -9,7 +9,7 @@
   <div class="post-group">
     <h2>{{ dateFormat "January 2006" (printf "%s-01" .Key) }}</h2>
     <ul>
-      {{ range .Pages }}
+      {{ range (.Pages.ByParam "date").Reverse }}
       <li>
         <a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a>
         <time>{{ .PublishDate.Format .Site.Params.dateFormat }}</time>

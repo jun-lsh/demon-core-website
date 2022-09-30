@@ -1,3 +1,14 @@
+---
+author: Edden
+title: Scratchpad
+date: 2019-03-08
+description: Information dump
+math: true
+---
+
+Preliminary information (unformatted)
+<!--more-->
+
 # What this page is about.
 Edden here. So as a heads up, I do not trust my own work when it comes to language. However, I happen to be participating in a hackerthon from Fri to Mon, so I intend to just place the work that I will do into this document. Ill try and segment it into different parts, and from there yall can pick out what to place where.
 
@@ -17,7 +28,9 @@ Theres 2 types of processes which can generate alot of energy, namely fusion and
 
 Fission happens first. In fission, a large element is broken down into 2 smaller elements. In the Little Man and Fat Boy explosions, the following reaction occured:
 
-$$^{239}_{\;94}Pu + ^1_0n \longrightarrow ^{141}_{\;56}Ba+ ^{92}_{36}Kr + 3 ^1_0 n + \textbf{ENERGY}$$
+<p>
+\(^{239}_{\;94}Pu + ^1_0n \longrightarrow ^{141}_{\;56}Ba+ ^{92}_{36}Kr + 3 ^1_0 n + \textbf{ENERGY}\)
+<p>
 
 Specifically, each reaction is _triggered_ by a neutron, when it strikes a plutonium atom. This in turn, produces 3 neutrons, which can then _trigger_ other such reactions. All in all, alot of energy, and radiation, is producced in this process.
 
@@ -38,7 +51,9 @@ In a nuclear bomb, fusion generates more energy than fission, hence it is fusion
 (Context: only the plutonium sphere was held back and not used for the war)
 
 Recall the following equation:
-$$^{239}_{\;94}Pu + ^1_0n \longrightarrow ^{141}_{\;56}Ba+ ^{92}_{36}Kr + 3 ^1_0 n + \textbf{ENERGY}$$
+<p>
+\(^{239}_{\;94}Pu + ^1_0n \longrightarrow ^{141}_{\;56}Ba+ ^{92}_{36}Kr + 3 ^1_0 n + \textbf{ENERGY}\)
+<p>
 
 At first glance, it seems like this reaction would be spontaneous to completion. After all, 1 neutron $\rightarrow 3 \rightarrow 9 \rightarrow \dots$. However, other factors may prevent this from being true. For one, neutrons may scatter, and not be used. On top of this, even if a proton and a Plutonium atom collide, the reaction may not even occur! The neutron may be absorbed in the Plutonium atom, or just bounce off. Hence, depending on circumstance, the products of 1 reaction (3 neutrons) may not even start any new reactions. 
 

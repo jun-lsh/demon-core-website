@@ -139,15 +139,12 @@ time {
 }
 
 #header > nav {
-    display: flex;
-    flex-direction: row;
+    display: inline;
     justify-content: space-around;
-    flex-wrap: wrap;
-    max-width: 768px;
-    width: 100%;
+    list-style-type: none;
 }
 
-#header > nav > span > a {
+#header > nav > ul > li {
     font-size: 1.2rem;
 }
 

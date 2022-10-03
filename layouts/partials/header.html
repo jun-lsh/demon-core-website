@@ -4,11 +4,11 @@
   </h1>
 
   <nav>
-    {{ range .Site.Menus.main }}
-    <span class="nav-bar-item">
-      <a class="link" href="{{ .URL | safeURL }}">{{ .Name }}</a>
-    </span>
+    <ul>
+      {{ range .Site.Menus.main }}
+        <li><a class="link" href="{{ .URL | safeURL }}"> {{ .Name }} </a></li>
     {{ end }}
+    </ul>
   </nav>
   
 

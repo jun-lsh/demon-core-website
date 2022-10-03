@@ -1,7 +1,7 @@
 ---
 author: Justin
 title: "Document 2: Nuclear Chain Reactions"
-date: 1942-02-12
+date: 1942-02-11
 description: Information dump
 math: true
 ---

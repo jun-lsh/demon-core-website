@@ -22,9 +22,9 @@
     {{ end }}
     <div class="content">
       {{ if .Site.Params.emphasisWithDots }}
-      {{ .Summary | replaceRE "<strong>(\\p{Han}+?)</strong>" "<strong class=chinese>$1</strong>" | safeHTML }}
+      {{ .Description | replaceRE "<strong>(\\p{Han}+?)</strong>" "<strong class=chinese>$1</strong>" | safeHTML }}
       {{ else }}
-      {{ .Summary }}
+      {{ .Description }}
       {{ end }}
     </div>
   </div>

@@ -8,13 +8,11 @@ math: true
 
 <br>
 
-## <ins>Introduction</ins>
+## <ins>Isotopes</ins>
 
-The nucleus of an atom is composed of *neutrons* and *protons*. Atoms of the same element have the same atomic number (number of protons), but the same element may have different _**isotopes**_, where they have a different number of neutrons.
+The nucleus of an atom is composed of *neutrons* and *protons* (which are called nucleons). Atoms of the same element have the same atomic number (number of protons), but the same element may have different _**isotopes**_, where they have a different number of neutrons.
 
-Isotopes are denoted by ${^{A}_{Z}X}$ where $X$ is the chemical symbol and $A = Z+N$ where $Z$ is the proton count and $N$ is the neutron count.
-
-An unstable nucleus may undergo **radioactive decay** in which it spontaneously loses energy by emitting ionizing particles and radiation. This can be *alpha decay* in which an alpha particle (${^{4}_{2}\alpha}$) is ejected, *beta decay* in which either an electron and antineutrino are released (in the case of *beta-minus decay*) or a positron and neutrino are released (in the case of *beta-plus decay*). Following these forms of decay, *gamma decay* may occur in which excess energy is emitted as a gamma ray.
+Isotopes are denoted by ${^{A}_{Z}X}$ where $X$ is the chemical symbol and $A = Z+N$ where $Z$ is the proton count and $N$ is the neutron count. The ratio of neutrons to protons is important in maintaining *nuclear stability*, with different isotopes of different elements varying in their nuclear stability.
 
 ## <ins>Nuclear Fission</ins>
 
@@ -33,5 +31,9 @@ However, fission may also be induced, in which a nucleus is excited by another n
 <p>
 
 Here, each reaction is _triggered_ by a neutron, when it strikes a plutonium atom (which is a <a class="tooltip">fissile<span>Fissile isotopes undergo fission upon absorption of a 0 KE neutron. Fertile isotopes become fissile upon absorption of a nuetron. Fissionable isotopes undergo fission when struck by a high energy neutron.</span></a>
-isotope, which undergoes fission upon absorption of a neutron, even one of zero kinetic enegy). This in turn, produces 3 neutrons, which can then _trigger_ other such reactions. 
+isotope, which undergoes fission upon absorption of a neutron, even one of zero kinetic enegy). The reaction in turn produces 3 neutrons, which can then trigger other such reactions. 
 
+The energy released is in various forms, including the **kinetic energy of the fission fragments** and **gamma radiation**. Gamma rays in particular are dangerous as it is a form of <a class="tooltip">ionizing radiation<span>Ionizing radiation, as the name would imply, can cause atoms and molecules to undergo ionization, in which it has electrons ripped off from them.</span></a>.  
+
+## <ins>The Liquid Drop Model</ins>
+The liquid drop model provides a qualitative explanation of fission, in which the compound nucleus behaves like a <ins>liquid drop</ins>, like when a liquid sloshes, deforms and breaks up into two. This is because interior and exterior nucleons experience diferent forces of attraction, and since surface necleons (similar to "surface tension" in a liquid drop) have no nucleons on the "outside" to balance them, when agitated, it could cause the net forces to pull the nucleus apart.

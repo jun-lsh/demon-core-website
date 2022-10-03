@@ -1,6 +1,6 @@
 ---
 author: Edden and Justin
-title: "Document 4: The Birth of The Demon Core"
+title: "Document 4: Dose Rate"
 date: 1945-08-13
 description: Information dump
 math: true

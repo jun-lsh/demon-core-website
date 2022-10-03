@@ -21,6 +21,8 @@ $$
 
 In other words, $k_{eff} = k_{\infty}P$ where $P$ is called the non-leakage probability. Adjusting $P$ will determine whether we can turn the system critical!
 
+If a system goes critical after <a class="tooltip">one generation of reaction<span>Which in this case means we do not consider delayed neutrons, or neutrons which come from successive generations of reaction.</span></a>, it is called _**prompt critical**_
+
 ## <ins>The Six-Factor Formula</ins>
 
 Neutron multiplication can also be described by the six-factor fomula $k_{eff} = \eta f p \epsilon P_{FNL}P_{TNL} = k_{\infty} P_{FNL}P_{TNL}$, where,
@@ -47,7 +49,17 @@ When properly manipulated, the $p$ and $f$ factors of $k$ can keep $k$ as close 
 
 $k$ is reliant on leakage and absorption, and there are ways to control fission to avoid criticality (or supercriticality) when we don't want it.
 
-These include:
-
 ### Geometry
 The shape of the fissionable material affects the likelihood of an escaping neutron from fission being surrounded by more fissionable material or a reflector. A **sphere** will go critical with the least fissionable material as it has the **smallest surface area**. This is why *rods* are used in nuclear reactors, as the neutrons can escape easily.
+
+### Neutron Absorbers (aka Nuclear Poison)
+Neutron absorbers are another way of controlling $k$ as an absorbed neutron is essentially the same as an escaped neutron. 
+
+### Temperature
+When the temperature rises, the average thermalized neutron energy increases, causing the speed of neutrons to increase. This means the possibility of escape increases further. 
+
+### Moderators
+However, the speed of neutrons can be decreased by moderators, which would increase the likelihood of neutrons being reflected back into the fissionable material.
+
+### Reflectors
+And usually, good moderators are also good reflectors. Reflectors cause the neutrons to change direction and (as the name would imply), reflect back to the fissionable material and continue the fission chain reaction.

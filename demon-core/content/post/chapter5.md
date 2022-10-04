@@ -21,6 +21,6 @@ In our Los Alamos laboratory, we were instructed to prepare the third bomb a few
 
 We have been given clearance to perform further experiments with it. This is a great opportunity to study how much neutron reflection is needed to approach supercriticality. I cannot wait to see how we can improve from our current progress.
 
-The peace of our nation and the world did not come easy, but a bright future lies ahead of us. I will be heading to Los Alamos soon, but not after the team first celebrates over some fine wine.
+The peace of our nation and the world did not come easy, but a bright future lies ahead of us. I will be heading to Los Alamos soon, but not before the team celebrates over some fine wine.
 
-- Harry Daghlian
+~ Harry Daghlian

@@ -1,10 +1,12 @@
 ---
 author: OZY
-title: "Document 6: Patient 0"
-date: 1945-08-21
-description: Information dump
+title: "Document 6: Experiment 1"
+date: 1945-08-19
+description: The Demon watches and waits... 
 math: true
 ---
-what the actual fk this guy killed himself within 8 days of getting it
-<!--more-->
+
+## Dear Diary...
+
+~ Harry Daghlian
 

@@ -48,6 +48,10 @@ Here, the leakage term drops rapidly, causing $k_{eff}$ to go over $1$. The sphe
 
 Lots of power is released in one go and the core gets very hot. Neutrons are travelling father and faster, increasing leakage far more than the increase in rate of reaction. $k_{eff}$ decreases, but does not go sub-critical.
 
-### Fission products begin building up
+### Fission products begin building up.
 
-Krypton (Kr) is a product of the fission of plutonium, an element with a high absorption cross section. This lowers the 
+Krypton (Kr) is a product of the fission of plutonium, an element with a high absorption cross section. This lowers the diffusion coefficient by increasing absorption and of course increases the absorption term as well, causing $k_{eff}$ to drop further.
+
+### The top shell gets flicked off.
+
+The extra reflection is removed and neutron leakage increases, causing $k_{eff}$ to drop below 1 and the Demon Core goes subcritical.

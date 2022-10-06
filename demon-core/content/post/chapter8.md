@@ -1,7 +1,7 @@
 ---
-author: Justin
-title: "Document 8: "
-date: 1945-09-16
+author: OZY
+title: "Document 8: Louis Slotin (whatever you want to name it)"
+date: 1946-04-16
 description: 
 math: true
 ---

@@ -7,9 +7,9 @@ math: true
 ---
 <br>
 
-## <ins>K-infinity and K-effective</ins>
+## <ins>Defining $k_{\infty}$ and $k_{eff}$ </ins>
 
-In order to determine whether a reaction will go critical, we must have a way of calculating $k$. However, there are two variants of $k$ to consider: we define $k_{eff}$ as the ratio of neutrons produced in the $(n+1)$th stage of fission against the number of neutrons from the $n$th stage of fission, whereas $k_{\infty}$ is this ratio but in a system of infinite size where there is **no loss from leakage**.
+In order to determine whether a reaction will go critical, we must have a way of calculating $k$. However, there are two variants of $k$ to consider: we define $k_{eff}$ (K-effective) as the ratio of neutrons produced in the $(n+1)$th stage of fission against the number of neutrons from the $n$th stage of fission, whereas $k_{\infty}$ (K-infinity) is this ratio but in a system of infinite size where there is **no loss from leakage**.
 
 This means in $k_{eff}$, we have to consider a _leakage_ term which affects the number of neutrons that can trigger a chain reaction.
 

@@ -21,34 +21,87 @@ author = "Hugo Authors"
 {{< quizdown >}}
 
 ---
-primary_color: orange
+primary_color: blue
 secondary_color: lightgray
 text_color: black
 shuffle_questions: false
 ---
 
-## The sound of dog
+## What type of reaction does the demon core undergo?
 
 ---
 shuffle_answers: false
 ---
 
-What do dogs sound like?
+1. [ ] Radiation
+1. [ ] Fusion
+1. [x] Fission
+1. [ ] Combustion
 
-> Some hint
+## When will the number of fission reactions increase exponentially? 
 
-- [ ] yes
-- [ ] no
-- [ ] `self.sound = "meow"`
-- [x] wuff
+---
+shuffle_answers: false
+---
 
-## Put the [days](https://en.wikipedia.org/wiki/Day) in order!
+1. [ ] critical
+1. [x] supercritical
+1. [ ] subcritical
 
-> Monday is the *first* day of the week.
+## Sort these senarios in terms of their k value!
+Lowest to highest.
 
-1. Monday
-2. Tuesday
-3. Wednesday
-4. Friday
-5. Saturday  
+---
+shuffle_answers: false
+---
+
+1. 50°C,  absorber
+2. 50°C,  no reflector or absorber
+3. 100°C, no reflector or absorber
+4. 100°C, reflector
+
+## When did the first incident occur?
+
+---
+shuffle_answers: false
+---
+
+1. [ ] March 9, 1945
+1. [ ] April 18, 1945
+1. [x] August 21, 1945
+1. [ ] December 25, 1945
+
+## In the first incident, how many days did Harry survive before his death?
+
+---
+shuffle_answers: false
+---
+
+1. [ ] 24
+1. [x] 25
+1. [ ] 26
+1. [ ] 27
+
+## In the second incident, how many people were injured due to radiation?
+
+---
+shuffle_answers: false
+---
+
+1. [ ] 1
+1. [x] 4
+1. [ ] 2
+1. [ ] 10
+
+## Why were experiments halted after the 2 criticality incidents?
+
+---
+shuffle_answers: false
+---
+
+1. [ ] The US Government had no money to fund the project anymore. 
+1. [x] The experiments were deemed too dangerous, and were stopped until extra measures could be taken.
+1. [ ] Experiments did not stop, they were simply moved to Area 51 and were undocumented.
+1. [ ] The US Government signed a peace treaty banning them from ever conducting such experiments again.
+
 {{< /quizdown >}}

@@ -12,6 +12,12 @@ math: true
 
 As a radiation particle loses energy traveling through a material, it ionizes nearby atoms and molecules. This energy deposited is what we call a *dose* of radiation. 
 
+The Roentgen is a commonly used unit, which is defined as:
+
+$$
+\text{One Roentgen is the amount of radiation that will deposit 1 electrostatic unit of charge in 1 cubic centimeter of air at S.T.P}
+$$
+
 Since usually we are concerned with radiation energy deposited in human tissue, the *gray* (Gy) was proposed as a unit.
 
 $$

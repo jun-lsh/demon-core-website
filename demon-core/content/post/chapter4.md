@@ -15,8 +15,10 @@ As a radiation particle loses energy traveling through a material, it ionizes ne
 The Roentgen is a commonly used unit, which is defined as:
 
 $$
-\text{One Roentgen is the amount of radiation that will deposit 1 electrostatic unit of charge in 1 cubic centimeter of air at S.T.P}
+\text{One Roentgen is the amount of radiation that will deposit 1 esu in 1 cubic centimeter of air at S.T.P}
 $$
+
+(esu refers to *electrostatic unit of charge*, otherwise known as a *statcoulomb*)
 
 Since usually we are concerned with radiation energy deposited in human tissue, the *gray* (Gy) was proposed as a unit.
 

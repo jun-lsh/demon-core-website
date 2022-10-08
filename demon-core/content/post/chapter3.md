@@ -23,27 +23,6 @@ In other words, $k_{eff} = k_{\infty}P$ where $P$ is called the non-leakage prob
 
 If a system goes critical after <a class="tooltip">one generation of reaction<span>Which in this case means we do not consider delayed neutrons, or neutrons which come from successive generations of reaction.</span></a>, it is called _**prompt critical**_
 
-## <ins>The Six-Factor Formula</ins>
-
-Neutron multiplication can also be described by the six-factor fomula $k_{eff} = \eta f p \epsilon P_{FNL}P_{TNL} = k_{\infty} P_{FNL}P_{TNL}$, where,
-
-- Thermal fission factor (eta / $\eta$)
-    - the ratio of neutrons produced to neutrons absorbed (determined by the material chosen)
-- Thermal utilization factor ($f$)
-    - $f = \frac{\text{neutrons absorbed by the fuel isotope}}{\text{neutrons absorbed anywhere}}$
-    - Among all absorbed neutrons, the more is absorbed by the fuel, the higher k is. 
-- Resonance escape probability ($p$)
-    - the probability that neutrons esccape capture and reach thermal energies where they may cause fission
-- Fast fission factor (epsilon / $\epsilon$)
-    - $\epsilon = \frac{\text{total number of fission neutrons}}{\text{number of fission neutrons from just thermal fissions (slow neutron fission)}}$
-- Fast non-leakage probability ($P_{FNL}$)
-    - $\frac{\text{number of fast neutrons that do not leak from reactor}}{\text{number of fast neutrons produced by all fissions}}$
-    - Here, fast neutrons refers to neutrons which can trigger a reaction. 
-    - The less leakage, the higher k is. 
-- Thermal non-leakage probability ($P_{TNL}$)
-    - $\frac{\text{number of thermal neutrons that do not leak from reactor}}{\text{number of thermal neutrons produced by all fissions}}$
-    - The less leakage, the higher k is. 
-
 ## <ins>Controlling k and Avoiding Criticality</ins>
 When properly manipulated, the $p$ and $f$ factors of $k$ can keep $k$ as close to 1 as possible, and this is done in a nuclear reactor to harness to power of fission.
 

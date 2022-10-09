@@ -17,6 +17,18 @@ author = "June"
 
 [NRC 20.1004 Units of radiation dose](https://web.archive.org/web/20220901091029/https://nrc.gov/reading-rm/doc-collections/cfr/part020/part020-1004.html)
 
+[OSHA Introduction to Ionizing Radiation](https://www.osha.gov/ionizing-radiation/introduction/handout)
+
 [OSTI Lecture Notes for Criticality Safety](https://www.osti.gov/biblio/10154535)
 
 ### History and Documentation
+
+[What has happened to the survivors of the early Los Alamos Nuclear accidents?](https://www.orau.org/ptp/pdf/accidentsurvivorslanl.pdf)
+
+[A Review of Criticality Accidents](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-03611)
+
+[The Blue Flash](http://blog.nuclearsecrecy.com/2016/05/23/the-blue-flash/)
+
+[The acute radiation syndrome: a study of nine cases and a review of the problem](https://pubmed.ncbi.nlm.nih.gov/14895043/)
+
+[Nuclear Naivete](https://web.archive.org/web/20150816161934/http://www.abqjournal.com/trinity/trinity2.pdf)

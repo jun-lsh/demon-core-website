@@ -1,6 +1,6 @@
 ---
 author: Justin
-title: "Document 9: Accident Report"
+title: "Document 9: Prompt-Supercriticality"
 date: 1946-05-22
 description: 
 math: true

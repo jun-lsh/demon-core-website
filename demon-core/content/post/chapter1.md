@@ -34,6 +34,3 @@ Here, each reaction is _triggered_ by a neutron, when it strikes a plutonium ato
 isotope, which undergoes fission upon absorption of a neutron, even one of zero kinetic enegy). The reaction in turn produces 3 neutrons, which can then trigger other such reactions. 
 
 The energy released is in various forms, including the **kinetic energy of the fission fragments** and **gamma radiation**. Gamma rays in particular are dangerous as it is a form of <a class="tooltip">ionizing radiation<span>Ionizing radiation, as the name would imply, can cause atoms and molecules to undergo ionization, in which it has electrons ripped off from them.</span></a>.  
-
-## <ins>The Liquid Drop Model</ins>
-The liquid drop model provides a qualitative explanation of fission, in which the compound nucleus behaves like a <ins>liquid drop</ins>, like when a liquid sloshes, deforms and breaks up into two. This is because interior and exterior nucleons experience diferent forces of attraction, and since surface necleons (similar to "surface tension" in a liquid drop) have no nucleons on the "outside" to balance them, when agitated, it could cause the net forces to pull the nucleus apart.

@@ -12,7 +12,7 @@ math: true
 
 The Demon Core itself is a barely sub-critical plutonium sphere, so how did it attain a prompt supercritical state in the two accidents? We know that it was triggered by neutron reflectors, but the chain of events is actually more complex than just an increase in neutron reflection.
 
-### A more detailed expression for $k_{eff}$
+### <ins>A more detailed expression for $k_{eff}$</ins>
 
 Recall that we write $k_{eff}$ as a ratio of *gained neutrons* to *lost neutrons*. As a set of brief descriptions of terms often used in these calculations:
 

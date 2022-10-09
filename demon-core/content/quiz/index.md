@@ -82,16 +82,6 @@ shuffle_answers: false
 1. [ ] 26
 1. [ ] 27
 
-## In the second incident, how many people were injured due to radiation?
-
----
-shuffle_answers: false
----
-
-1. [ ] 1
-1. [x] 4
-1. [ ] 2
-1. [ ] 10
 
 ## Why were experiments halted after the 2 criticality incidents?
 

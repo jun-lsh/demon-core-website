@@ -1,6 +1,6 @@
 ---
 author: Justin
-title: "Document 11: The Effects of Radiation"
+title: "Document 7: The Effects of Radiation"
 date: 1946-05-31
 description: 
 math: true

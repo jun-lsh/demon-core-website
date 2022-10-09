@@ -1,8 +1,8 @@
 ---
 author: Edden and Justin
-title: "Document 2: Criticality"
+title: "Fundamentals 2: Criticality"
 date: 1942-02-11
-description: Information dump
+description: How do we know if a nuclear chain reaction is self-sustaining? Do we have classifications for the behaviours of fissile material?
 math: true
 ---
 

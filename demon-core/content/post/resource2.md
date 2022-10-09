@@ -1,8 +1,8 @@
 ---
 author: Justin
-title: "Resource 2: LA-2 Accident Report"
+title: "Report 2: LA-2 Accident Report"
 date: 1946-05-21
-description: 
+description: Declassified documents from Los Alamos Scientific Laboratory of the University of California
 math: true
 ---
 

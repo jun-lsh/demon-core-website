@@ -1,8 +1,8 @@
 ---
 author: Justin
-title: "Resource 1: LA-1 Accident Report"
+title: "Report 1: LA-1 Accident Report"
 date: 1945-09-15
-description: 
+description: Declassified documents from Los Alamos Scientific Laboratory of the University of California
 math: true
 ---
 
@@ -11,8 +11,6 @@ math: true
 {{< youtube ZVptC60CUWs >}}
 
 ### Transcript of Report
-
-Los Alamos Scientific Laboratory of the University of California
 
 The LA-1 accident occured on the night of August 21, 1945 at 9:55 p.m. It involved Haroutune Krikor Daghlian, Jr., the assigned physicist-operator and Private Robert J. Hemmerly, a military guard in the laboratory.
 

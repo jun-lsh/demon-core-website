@@ -1,6 +1,6 @@
 ---
 author: Justin
-title: "Resource 3: The Fate of the Demon Core"
+title: "Report 3: The Fate of the Demon Core"
 date: 1979-10-21
 description: 
 math: true

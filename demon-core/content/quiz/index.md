@@ -71,16 +71,16 @@ shuffle_answers: false
 1. [x] August 21, 1945
 1. [ ] December 25, 1945
 
-## In the first incident, how many days did Harry survive before his death?
+## What elements were the neutron reflectors in the two accidents made of? (multiple answers)
 
 ---
 shuffle_answers: false
 ---
 
-1. [ ] 24
-1. [x] 25
-1. [ ] 26
-1. [ ] 27
+1. [ ] Titanium 
+2. [x] Tungsten Carbide
+3. [ ] Platinum
+4. [x] Beryllium
 
 
 ## Why were experiments halted after the 2 criticality incidents?
@@ -93,5 +93,8 @@ shuffle_answers: false
 1. [x] The experiments were deemed too dangerous, and were stopped until extra measures could be taken.
 1. [ ] Experiments did not stop, they were simply moved to Area 51 and were undocumented.
 1. [ ] The US Government signed a peace treaty banning them from ever conducting such experiments again.
+
+
+
 
 {{< /quizdown >}}

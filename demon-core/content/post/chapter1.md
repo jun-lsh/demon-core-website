@@ -34,3 +34,5 @@ Here, each reaction is _triggered_ by a neutron, when it strikes a plutonium ato
 isotope, which undergoes fission upon absorption of a neutron, even one of zero kinetic enegy). The reaction in turn produces 3 neutrons, which can then trigger other such reactions. 
 
 The energy released is in various forms, including the **kinetic energy of the fission fragments** and **gamma radiation**. Gamma rays in particular are dangerous as it is a form of <a class="tooltip">ionizing radiation<span>Ionizing radiation, as the name would imply, can cause atoms and molecules to undergo ionization, in which it has electrons ripped off from them.</span></a>.  
+
+![alt text](/assets/uraniumfission.png "A fission reaction with uranium-235")

@@ -22,7 +22,9 @@ While I was able to make a recovery, Louis died nine days after the accident. Hi
 
 The core was going to be used in Operation Crossroads, but time was needed for its radioactivity to drop. When the *Baker* test saw unexpected levels of radioactivity and the inability to decontaminate target warships, the next test involving the core was cancelled. It was eventually melted and used for other cores.
 
-<img src="../images/opcrossroads.png" alt="The Baker Test at Operation Crossroads" width="600"/>
+<div align="center">
+    <img src="../images/opcrossroads.png" alt="The Baker Test at Operation Crossroads" width="600"/>
+</div>
 
 Looking back, I wish I could have stopped Louis from his dangerous actions. We have lost a brilliant mind as a result of recklessness twice now and two lives is two too many.
 

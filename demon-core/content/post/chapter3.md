@@ -34,6 +34,9 @@ The shape of the fissionable material affects the likelihood of an escaping neut
 ### Neutron Absorbers (aka Nuclear Poison)
 Neutron absorbers are another way of controlling $k$ as an absorbed neutron is essentially the same as an escaped neutron. 
 
+<div align="center"><img src="../images/control_rods.jpg" width=500></div>
+<div align="center">(Control rods in nuclear reactors are made of neutron absorbers such as boron)</div>
+
 ### Temperature
 When the temperature rises, the average thermalized neutron energy increases, causing the speed of neutrons to increase. This means the possibility of escape increases further. 
 
@@ -42,3 +45,6 @@ However, the speed of neutrons can be decreased by moderators, which would incre
 
 ### Reflectors
 And usually, good moderators are also good reflectors. Reflectors cause the neutrons to change direction and (as the name would imply), reflect back to the fissionable material and continue the fission chain reaction.
+
+<div align="center"><img src="../images/inside_core.jpg" width=500></div>
+<div align="center">(Neutron reflectors are also used in nuclear reactors, <br>with materials such as beryllium or graphite being oftenly used)</div>

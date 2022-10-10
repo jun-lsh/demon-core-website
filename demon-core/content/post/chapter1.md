@@ -13,6 +13,8 @@ math: true
 The nucleus of an atom is composed of *neutrons* and *protons* (which are called nucleons). Atoms of the same element have the same atomic number (number of protons), but the same element may have different _**isotopes**_, where they have a different number of neutrons.
 
 Isotopes are denoted by ${^{A}_{Z}X}$ where $X$ is the chemical symbol and $A = Z+N$ where $Z$ is the proton count and $N$ is the neutron count. The ratio of neutrons to protons is important in maintaining *nuclear stability*, with different isotopes of different elements varying in their nuclear stability.
+<div align="center"><img src="../images/isotopes.jpg" alt="Isotopes of uranium" width="400"/></div>
+
 
 ## <ins>Nuclear Fission</ins>
 

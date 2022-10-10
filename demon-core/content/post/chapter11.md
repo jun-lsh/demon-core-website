@@ -2,7 +2,7 @@
 author: "Justin"
 title: "Document 7: The Effects of Radiation"
 date: "1946-05-31"
-description: "How exactly does radiation affect us and why it is so deadly"
+description: "How exactly does radiation affect us? Why it is so deadly?"
 math: true
 ---
 
@@ -22,6 +22,13 @@ ARS is not always fatal, as was the case of Graves who recovered from it 6 month
 
 If the radiation exposure is sufficiently high, cell DNA is effectively *smashed* and cell reproduction (mitosis) ceases. As the body requires cells to continually be replenished, this is effectively a death sentence.
 
+
+<div align="center">
+    <img src="../images/smashed_chromosomes.jpg" alt="Chromosomes" width="400"/>
+</div>
+
+<div align="center">(Depicted is an extreme case where chromosomes are completely damaged<br> to the point of being unidentifiable)</div>
+<br>
 Often times, the heavily irradiated region would have radiation burns, where the skin begins to peel without growing back. The immune system would begin to fail as *white blood cells* are unable to be produced, making the individual extremely suscepitible to other infections.
 
 The gastrointestinal tract would also begin to fail, preventing uptake of nutrients and water from consumed food. 

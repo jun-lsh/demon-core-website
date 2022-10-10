@@ -11,6 +11,10 @@ math: true
 ## <ins>The Chain Reaction</ins>
 As previously seen, in a fission reaction, the release of neutrons can *trigger more fission reactions*. This becomes a <ins>feedback process</ins> where more and more fissionable material releases and absorbs neutrons. Under the correct conditions, a sustained chain reaction is possible.
 
+<div align="center">
+    <img src="../images/chain_reaction.svg" alt="Chain Reaction" width="400"/>
+</div>
+
 ## <ins>Neutron Multiplication</ins>
 We may define $k$ (the effective neutron multiplication factor), as the number of reactions triggered from the products of 1 reaction. We continue using the example of plutonium:
 <p>

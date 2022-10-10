@@ -20,7 +20,7 @@ Farewell, my friend. You will be dearly missed.
 
 ~ Louis Slotin
 
-#### A news article on Daghlian's death was reported
+#### A news article reported on Daghlian's death a few days later...
 
 <div align="center">
     <img src="../images/harrynews.png" alt="The true cause of death was hidden to the public" width="400"/>

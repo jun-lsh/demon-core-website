@@ -16,3 +16,11 @@ The content on the website has been written under the assumption that the viewer
 
 ### How was this website made?
 This website was made using [Hugo](https://github.com/gohugoio), with content written by Justin Lim, Edden Chew and Oh Zhi Yuan of M22504.
+
+#### Work Distribution Table
+
+| Name                  | Work Done (J)                                                                                         | Percentage (%) |
+|-----------------------|-------------------------------------------------------------------------------------------------------|----------------|
+| Lim Sue Han Justin    | - Set up the website - Made the videos - Wrote some quiz questions - Wrote some of the math documents | 34             |
+| Edden Chew Keyn-Hantz | - Wrote some of the math documents - Added images to the website - Wrote some quiz questions          | 33             |
+| Oh Zhi Yuan           | - Wrote the main storyline - Wrote some quiz questions                                                | 33             |

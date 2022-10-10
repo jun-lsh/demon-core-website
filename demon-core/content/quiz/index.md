@@ -128,5 +128,16 @@ shuffle_answers: false
 1. [x] It was melted down and incorporated into other nuclear weapons in the nuclear arsenal
 1. [ ] It was used in the bomb dropped during the Charlie test at Operation Crossroads
 
+## What can we learn from these two events?
+
+---
+shuffle_answers: false
+---
+
+- [x] We need to follow safety protocols at ALL times
+- [ ] We should always listen to our seniors, even when they are wrong
+- [x] We should not be complacent even when we think we are experienced
+- [x] We cannot underestimate the risks we are taking
+- [x] We must heed the advice of others who are concerned for us
 
 {{< /quizdown >}}

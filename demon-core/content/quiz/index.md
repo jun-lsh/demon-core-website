@@ -27,7 +27,7 @@ text_color: black
 shuffle_questions: false
 ---
 
-## What type of reaction does the demon core undergo?
+## What type of reaction does the Demon Core undergo?
 
 ---
 shuffle_answers: false
@@ -77,10 +77,33 @@ shuffle_answers: false
 shuffle_answers: false
 ---
 
-1. [ ] Titanium 
-2. [x] Tungsten Carbide
-3. [ ] Platinum
-4. [x] Beryllium
+- [ ] Titanium 
+- [x] Tungsten Carbide
+- [ ] Platinum
+- [x] Beryllium
+
+
+## How did the second criticality excursion occur?
+
+---
+shuffle_answers: false
+---
+
+1. [ ] The shims in the assembly had broken, causing the assembly to go critical
+1. [ ] The two halves of the plutonium core had combined when the screwdriver slipped, reaching a critical mass
+1. [x] The screwdriver holding the two beryllium tampers apart had slipped, increasing neutron reflection
+1. [ ] The neutron source directed at the core was accidentally increased when the screwdriver slipped
+
+## What was behind the blue glow during the criticality excursions?
+
+---
+shuffle_answers: false
+---
+
+1. [x] The nitrogen around the core was ionized and excited by radioactive emissions and released blue light when de-excited
+1. [ ] The air around the core was ionized by radioactive emissions and turned into blue plasma
+1. [ ] There was a blast of Cherenkov radiation, the same radiation behind the blue glow of nuclear reactors
+1. [ ] The blast of X-rays was so strong that it appeared as blue due to its interaction with the cones of the eyes
 
 
 ## Why were experiments halted after the 2 criticality incidents?
@@ -94,7 +117,16 @@ shuffle_answers: false
 1. [ ] Experiments did not stop, they were simply moved to Area 51 and were undocumented.
 1. [ ] The US Government signed a peace treaty banning them from ever conducting such experiments again.
 
+## What happened to the Demon Core after experiments on it had ended?
 
+---
+shuffle_answers: false
+---
+
+1. [ ] It was used in the Gilda bomb dropped during the Able test at Operation Crossroads
+1. [ ] It was sold to the Iranian government in 2006 by the CIA after 60 years in storage
+1. [x] It was melted down and incorporated into other nuclear weapons in the nuclear arsenal
+1. [ ] It was used in the bomb dropped during the Charlie test at Operation Crossroads
 
 
 {{< /quizdown >}}

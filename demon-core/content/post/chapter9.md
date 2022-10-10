@@ -44,14 +44,30 @@ At this stage, the sphere is still subcritical. When the top hemisphere is lower
 
 Here, the leakage term drops rapidly, causing $k_{eff}$ to go over $1$. The sphere is now *prompt-supercritical* This means the amount of reactivity added is greater than the fraction of delayed neutrons so there is no slow feedback of neutrons to be had. There is an exponential increase in power within milliseconds.
 
+$$
+k_{eff} \uparrow = \frac{\nu\overline{\Sigma_{f}}}{\overline{\Sigma_{a}} + \overline{D}B^2_g \downarrow} > 1
+$$
+
 ### The Demon Core is now prompt-supercritical with a blue glow.
 
 Lots of power is released in one go and the core gets very hot. Neutrons are travelling father and faster, increasing leakage far more than the increase in rate of reaction. $k_{eff}$ decreases, but does not go sub-critical.
+
+$$
+k_{eff} \downarrow  = \frac{\nu\overline{\Sigma_{f}} \uparrow}{\overline{\Sigma_{a}} \uparrow+ \overline{D}B^2_g \uparrow} 
+$$
 
 ### Fission products begin building up.
 
 Krypton (Kr) is a product of the fission of plutonium, an element with a high absorption cross section. This lowers the diffusion coefficient by increasing absorption and of course increases the absorption term as well, causing $k_{eff}$ to drop further.
 
+$$
+k_{eff} \downarrow  = \frac{\nu\overline{\Sigma_{f}} \downarrow}{\overline{\Sigma_{a}} \uparrow\uparrow+ \overline{D}B^2_g \downarrow} 
+$$
+
 ### The top shell gets flicked off.
 
 The extra reflection is removed and neutron leakage increases, causing $k_{eff}$ to drop below 1 and the Demon Core goes subcritical.
+
+$$
+k_{eff} \downarrow  = \frac{\nu\overline{\Sigma_{f}}}{\overline{\Sigma_{a}} + \overline{D}B^2_g \uparrow} < 1
+$$

@@ -54,7 +54,7 @@ author = "June"
 }
 
 .toggle:checked+.lbl-toggle+.collapsible-content {
-    max-height: 1500px;
+    max-height: 2000px;
 }
 
 .toggle:checked+.lbl-toggle {
@@ -92,8 +92,10 @@ author = "June"
 <div class="content-inner">
 <p> 
 <div align="center">
+<h2>DISCLAIMER: THIS CONTENT IS NOT RELATED TO THE REST OF THE SITE, IT IS HERE FOR TESTING THE CODE</h2>
 <img src="./images/beloved.gif" alt="Demon Core My Beloved" width="600"/>
 <img src="./images/producer.png" alt="Demon Core My Beloved" width="600"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZIjbX1gj88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </p>
 </div>

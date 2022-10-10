@@ -14,9 +14,15 @@ Six other people were with us in the room that day, and I was just behind Louis 
 
 He shouted for all of us to come back and mark exactly where we stood, so that he could measure how much radiation everyone absorbed. Standing close to Louis, I was given a 50 percent chance of survival having received a high but non-lethal dose. Over the course of my hospitalisation, I suffered from severe radiation poisoning and hair loss. Furthermore, it had made me totally infertile and I fear that it may be permanent.
 
+<div align="center">
+    <img src="../images/exp2positions.png" alt="Positions of the people at the scene" width="600"/>
+</div>
+
 While I was able to make a recovery, Louis died nine days after the accident. His body was covered in blisters and experienced burns in his internal organs. His lips went blue and he slipped into a coma. Unlike Harry, his parents were with him as he passed away.
 
 The core was going to be used in Operation Crossroads, but time was needed for its radioactivity to drop. When the *Baker* test saw unexpected levels of radioactivity and the inability to decontaminate target warships, the next test involving the core was cancelled. It was eventually melted and used for other cores.
+
+<img src="../images/opcrossroads.png" alt="The Baker Test at Operation Crossroads" width="600"/>
 
 Looking back, I wish I could have stopped Louis from his dangerous actions. We have lost a brilliant mind as a result of recklessness twice now and two lives is two too many.
 

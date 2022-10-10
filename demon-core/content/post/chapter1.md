@@ -30,9 +30,10 @@ However, fission may also be induced, in which a nucleus is excited by another n
 \(^{239}_{\;94}Pu + ^1_0n \longrightarrow ^{141}_{\;56}Ba+ ^{92}_{36}Kr + 3 ^1_0 n + \textbf{ENERGY}\)
 <p>
 
+<img src="../images/uraniumfission.png" alt="A fission reaction with uranium-235" width="200"/>
+
 Here, each reaction is _triggered_ by a neutron, when it strikes a plutonium atom (which is a <a class="tooltip">fissile<span>Fissile isotopes undergo fission upon absorption of a 0 KE neutron. Fertile isotopes become fissile upon absorption of a nuetron. Fissionable isotopes undergo fission when struck by a high energy neutron.</span></a>
 isotope, which undergoes fission upon absorption of a neutron, even one of zero kinetic enegy). The reaction in turn produces 3 neutrons, which can then trigger other such reactions. 
 
 The energy released is in various forms, including the **kinetic energy of the fission fragments** and **gamma radiation**. Gamma rays in particular are dangerous as it is a form of <a class="tooltip">ionizing radiation<span>Ionizing radiation, as the name would imply, can cause atoms and molecules to undergo ionization, in which it has electrons ripped off from them.</span></a>.  
 
-![alt text](/assets/uraniumfission.png "A fission reaction with uranium-235")

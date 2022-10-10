@@ -14,7 +14,7 @@ The Demon Core itself is a barely sub-critical plutonium sphere, so how did it a
 
 ### <ins>A more detailed expression for $k_{eff}$</ins>
 
-Recall that we write $k_{eff}$ as a ratio of *gained neutrons* to *lost neutrons*. As a set of brief descriptions of terms often used in these calculations:
+Recall that we write $k_{eff}$ as a ratio of <i>gained neutrons</i> to <i>lost neutrons</i>. As a set of brief descriptions of terms often used in these calculations:
 
 - In calculation we have to consider the *flux-averaged* macroscopic cross-section (often denoted as $\Sigma$), which describes the probability of a nuclear reaction occuring across an area when neutrons are being blasted at it.
 - We also have to consider the *neutron flux* (often denoted as $\Phi$) which describes the number of neutrons passing through a unit area in a unit time.
@@ -42,7 +42,7 @@ At this stage, the sphere is still subcritical. When the top hemisphere is lower
 
 ### The Demon Core once the screwdriver slips.
 
-Here, the leakage term drops rapidly, causing $k_{eff}$ to go over $1$. The sphere is now *prompt-supercritical* This means the amount of reactivity added is greater than the fraction of delayed neutrons so there is no slow feedback of neutrons to be had. There is an exponential increase in power within milliseconds.
+Here, the leakage term drops rapidly, causing $k_{eff}$ to go over $1$. The sphere is now <i>prompt-supercritical</i> This means the amount of reactivity added is greater than the fraction of delayed neutrons so there is no slow feedback of neutrons to be had. There is an exponential increase in power within milliseconds.
 
 $$
 k_{eff} \uparrow = \frac{\nu\overline{\Sigma_{f}}}{\overline{\Sigma_{a}} + \overline{D}B^2_g \downarrow} > 1

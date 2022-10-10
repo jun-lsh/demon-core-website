@@ -17,6 +17,7 @@ author = "Hugo Authors"
   </script>
   <script>quizdown.register(quizdownHighlight).register(quizdownKatex).init()</script> 
 
+## Test Your Knowledge!
 
 {{< quizdown >}}
 

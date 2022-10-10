@@ -1,8 +1,8 @@
 ---
-author: OZY
+author: "OZY"
 title: "Document 4: The Bomb Putter-Togetherer"
-date: 1946-04-16
-description: Meet the Demon's next victim
+date: "1946-04-16"
+description: "Meet the Demon's next victim"
 math: true
 ---
 

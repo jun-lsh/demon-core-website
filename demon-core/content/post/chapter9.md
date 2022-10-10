@@ -1,8 +1,8 @@
 ---
-author: Justin
+author: "Justin"
 title: "Document 5: Prompt-Supercriticality"
-date: 1946-05-22
-description: 
+date: "1946-05-22"
+description: ""
 math: true
 ---
 

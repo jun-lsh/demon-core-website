@@ -1,8 +1,8 @@
 ---
-author: Edden and Justin
+author: "Edden and Justin"
 title: "Fundamentals 1: Nuclear Fission"
-date: 1938-01-12
-description: Nuclear fission is a fundamnetal concept when it comes to talking about "nuclear chain reactions", it being the principle behind nuclear reactors and nuclear weapons.
+date: "1938-01-12"
+description: "Nuclear fission is a fundamnetal concept when it comes to talking about "nuclear chain reactions", it being the principle behind nuclear reactors and nuclear weapons."
 math: true
 ---
 

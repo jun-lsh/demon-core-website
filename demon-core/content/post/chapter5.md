@@ -1,8 +1,8 @@
 ---
-author: OZY
+author: "OZY"
 title: "Document 1: Inception"
-date: 1945-08-15
-description: The birth of the Demon Core.
+date: "1945-08-15"
+description: "The birth of the Demon Core."
 math: true
 ---
 "We have ordered ... that our empire accepts the provisions of their joint declaration... Cultivate the ways of rectitude, foster nobility of spirit, and work with resolution - so that you may enhance the innate glory of the imperial state and keep pace with progress of the world." - Emperor Hirohito, 15 August 1945

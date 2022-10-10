@@ -1,8 +1,8 @@
 ---
-author: Justin
+author: "Justin"
 title: "Report 3: The Fate of the Demon Core"
-date: 1979-10-21
-description: 
+date: "1979-10-21"
+description: ""
 math: true
 ---
 

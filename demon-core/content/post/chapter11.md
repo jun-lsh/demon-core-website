@@ -1,8 +1,8 @@
 ---
-author: Justin
+author: "Justin"
 title: "Document 7: The Effects of Radiation"
-date: 1946-05-31
-description: 
+date: "1946-05-31"
+description: ""
 math: true
 ---
 

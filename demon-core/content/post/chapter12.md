@@ -1,8 +1,8 @@
 ---
-author: OZY
+author: "OZY"
 title: "Document 8: Anniversary"
-date: 1947-05-30
-description: Reflections of a disciple
+date: "1947-05-30"
+description: "Reflections of a disciple"
 math: true
 ---
 

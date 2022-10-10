@@ -2,7 +2,7 @@
 author: "Justin"
 title: "Document 5: Prompt-Supercriticality"
 date: "1946-05-22"
-description: "Understanding the sequence of events leading to criticality"
+description: "Understanding the sequence of events leading to a criticality excursion, in the case of the LA-2 accident"
 math: true
 ---
 

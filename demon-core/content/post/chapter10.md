@@ -2,7 +2,7 @@
 author: "Justin"
 title: "Document 6: The Blue Glow"
 date: "1946-05-23"
-description: ""
+description: "Learning what causes the unforgettable glow at criticality"
 math: true
 ---
 

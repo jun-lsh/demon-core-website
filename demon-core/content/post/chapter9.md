@@ -2,7 +2,7 @@
 author: "Justin"
 title: "Document 5: Prompt-Supercriticality"
 date: "1946-05-22"
-description: ""
+description: "Understanding the sequence of events leading to criticality"
 math: true
 ---
 

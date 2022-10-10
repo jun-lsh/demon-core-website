@@ -2,7 +2,7 @@
 author: "OZY"
 title: "Document 8: Anniversary"
 date: "1947-05-30"
-description: "Reflections of a disciple"
+description: "Reflections of Slotin's dissciple"
 math: true
 ---
 

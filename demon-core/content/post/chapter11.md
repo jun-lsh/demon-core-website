@@ -2,7 +2,7 @@
 author: "Justin"
 title: "Document 7: The Effects of Radiation"
 date: "1946-05-31"
-description: ""
+description: "How exactly does radiation affect us and why it is so deadly"
 math: true
 ---
 

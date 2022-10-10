@@ -17,8 +17,9 @@ The team has been working tirelessly since 1939 when the war began. The result o
 
 Last week, the fruits of our labor were shown to the world. Our two atomic bombs - Little Boy and Fat Man - were dropped on Hiroshima and Nagasaki. Little Boy was a gun-type fission weapon, deriving its explosive power from the nuclear fission of uranium-235. Fat Man was made using plutonium-239, and previous testing at the Trinity test proved its efficacy.
 
-<img src="../images/trinity.png" alt="The Trinity test was a success" width="400"/>
-
+<div align="center">
+    <img src="../images/trinity.png" alt="The Trinity test was a success" width="400"/>
+</div>
 In our Los Alamos laboratory, we were instructed to prepare the third bomb a few days back. The early surrender of Japan means that it would not be used anymore. Hence, the bomb was taken apart with the core still sitting in our lab. This plutonium core weighs 14 pounds and has a diameter of 3.5 inches, just like the one in Fat Man.
 
 We have been given clearance to perform further experiments with it. This is a great opportunity to study how much neutron reflection is needed to approach supercriticality. I cannot wait to see how we can improve from our current progress.

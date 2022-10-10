@@ -1,8 +1,8 @@
 ---
-author: Justin
+author: "Justin"
 title: "Fundamentals 3: Neutron Control"
-date: 1942-02-12
-description: Controlling the neutron multiplication factor is crucial and understanding how we can calculate it gives us an idea of what factors contribute to it.
+date: "1942-02-12"
+description: "Controlling the neutron multiplication factor is crucial and understanding how we can calculate it gives us an idea of what factors contribute to it."
 math: true
 ---
 <br>

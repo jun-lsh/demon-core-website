@@ -1,8 +1,8 @@
 ---
-author: OZY
+author: "OZY"
 title: "Document 2: Experiment 1"
-date: 1945-08-20
-description: The Demon watches and waits... 
+date: "1945-08-20"
+description: "The Demon watches and waits..."
 math: true
 ---
 

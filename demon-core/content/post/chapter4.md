@@ -1,8 +1,8 @@
 ---
-author: Justin
+author: "Justin"
 title: "Fundamentals 4: Dose Rate"
-date: 1945-08-13
-description: When radiation passes through objects, it deposits energy, and of course, we need ways of quantifying it.
+date: "1945-08-13"
+description: "When radiation passes through objects, it deposits energy, and of course, we need ways of quantifying it."
 math: true
 ---
 

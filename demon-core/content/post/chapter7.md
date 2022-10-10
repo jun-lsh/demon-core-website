@@ -1,8 +1,8 @@
 ---
-author: OZY
+author: "OZY"
 title: "Document 3: Patient Zero"
-date: 1945-09-15
-description: The Demon's first casualty
+date: "1945-09-15"
+description: "The Demon's first casualty"
 math: true
 ---
 

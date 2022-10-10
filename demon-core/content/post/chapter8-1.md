@@ -1,8 +1,8 @@
 ---
-author: OZY
+author: "OZY"
 title: "Document 4.1: Fermi's Foresights for Future Fatality"
-date: 1946-04-19
-description: Warnings of the wise
+date: "1946-04-19"
+description: "Warnings of the wise"
 math: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-author: Justin
+author: "Justin"
 title: "Report 1: LA-1 Accident Report"
-date: 1945-09-15
-description: Declassified documents from Los Alamos Scientific Laboratory of the University of California
+date: "1945-09-15"
+description: "Declassified documents from Los Alamos Scientific Laboratory of the University of California"
 math: true
 ---
 

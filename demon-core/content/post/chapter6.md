@@ -20,5 +20,9 @@ We are currently using tungsten carbide bricks to surround the core, layer by la
 
 Our tests have truly been rewarding so far, yet I cannot share this with anyone else. Having been working in secret for so long, I wish my family would know that I have been gaining such invaluable experience through this project and they have raised a son to be proud of.
 
+<div align="center">
+    <img src="../images/alamosshh.png" alt="The Manhattan Project is very secretive..." width="400"/>
+</div>
+
 ~ Harry Daghlian
 

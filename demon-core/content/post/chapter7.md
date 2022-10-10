@@ -16,8 +16,15 @@ A guard was with him that night, but he did not suffer the same fate as he was m
 
 In his last days, Harry suffered unimaginable pain from his radiation poisoning. He experienced swelling and numbness in his hand, nausea, repeated bouts of retching and vomiting, prolonged episodes of hiccups, hair loss, reddening of both forearms, neck and face and a progressive loss of skin layers. He slipped into a coma today and passed away at 4.30p.m. Perhaps it was better for him to die sooner so that he would not have to be tormented so much.
 
-
 Farewell, my friend. You will be dearly missed.
 
 ~ Louis Slotin
 
+#### A news article on Daghlian's death was reported
+
+<div align="center">
+    <img src="../images/harrynews.png" alt="The true cause of death was hidden to the public" width="400"/>
+</div>
+<div align="center">
+    The true cause of death was hidden to the public, turning the first death of a criticality event to a mere incident with chemical burns.
+</div>

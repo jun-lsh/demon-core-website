@@ -24,6 +24,10 @@
     {{ end }}
   </div>
   {{ end }}
+  <div align="center">
+    <b>Section written by </b> {{ .Params.author}}
+  </div>
+
   {{ if cond (ne .Params.toc nil) .Params.toc .Site.Params.toc }}
   {{ if ne .TableOfContents "<nav id=\"TableOfContents\"></nav>" }}
   <details>
@@ -50,7 +54,7 @@
     {{ if .NextInSection }}
     <a class="link" href="{{ .NextInSection.Permalink }}">next →</a>
     {{ else }}
-    <a></a>
+    <a class="link" href="/quiz">Test Your Knowledge →</a>
     {{ end }}
   </div>
   <div class="comment">

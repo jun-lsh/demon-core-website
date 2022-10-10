@@ -25,10 +25,14 @@ author = "June"
 
 [What has happened to the survivors of the early Los Alamos Nuclear accidents?](https://www.orau.org/ptp/pdf/accidentsurvivorslanl.pdf)
 
-[A Review of Criticality Accidents](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-03611)
+[A Review of Criticality Accidents (LA-03611, 1967 Version)](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-03611)
+
+[A Review of Criticality Accidents (LA-13638, 2000 Revision)](https://www.orau.org/health-physics-museum/files/library/accidents/la-13638.pdf)
 
 [The Blue Flash](http://blog.nuclearsecrecy.com/2016/05/23/the-blue-flash/)
 
 [The acute radiation syndrome: a study of nine cases and a review of the problem](https://pubmed.ncbi.nlm.nih.gov/14895043/)
 
 [Nuclear Naivete](https://web.archive.org/web/20150816161934/http://www.abqjournal.com/trinity/trinity2.pdf)
+
+[The Demon Core and the Strange Death of Louis Slotin](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)

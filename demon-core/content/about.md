@@ -19,8 +19,8 @@ This website was made using [Hugo](https://github.com/gohugoio), with content wr
 
 #### Work Distribution Table
 
-| Name                  | Work Done (J)                                                                                         | Percentage (%) |
-|-----------------------|-------------------------------------------------------------------------------------------------------|----------------|
-| Lim Sue Han Justin    | - Set up the website - Made the videos - Wrote some quiz questions - Wrote some of the math documents | 34             |
-| Edden Chew Keyn-Hantz | - Wrote some of the math documents - Added images to the website - Wrote some quiz questions          | 33             |
-| Oh Zhi Yuan           | - Wrote the main storyline - Wrote some quiz questions                                                | 33             |
+| Name                  | Work Done (J)                                                                                                  | Percentage (%) |
+|-----------------------|----------------------------------------------------------------------------------------------------------------|----------------|
+| Lim Sue Han Justin    | - Set up the website<br>- Made the videos<br>- Wrote some quiz questions<br>- Wrote some of the math documents | 34             |
+| Edden Chew Keyn-Hantz | - Wrote some of the math documents<br>- Added images to the website<br>- Wrote some quiz questions             | 33             |
+| Oh Zhi Yuan           | - Wrote the main storyline<br>- Wrote some quiz questions                                                      | 33             |
